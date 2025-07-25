@@ -40,7 +40,7 @@ Open MATLAB, navigate to the EEG-TFX root folder, and type `EEG_TFX` to start th
 - In the preprocessing panel, choose whether to apply a 50 Hz or 60 Hz notch filter, set the band-pass filter order, and confirm the original sampling frequency.  
 - Move to the **Time-Frequency Segmentation** tab: add, edit, or remove time windows and frequency bands with the **Add / Remove** buttons.  
 - In the **Feature & Classifier** sections, select built-in options or load your own `.m` scripts—new entries appear automatically after a GUI refresh.  
-- Press **Start Training**; a live progress bar tracks feature extraction, selection, model training, and k-fold cross-validation while an accuracy curve updates in real time.  
+- Press **Start**; a live progress bar tracks feature extraction, selection, model training, and k-fold cross-validation while an accuracy curve updates in real time.  
 - When training finishes, all results—per-fold models, the best overall model, EEG topographic maps, and accuracy plots—are automatically saved in the `results` directory for further analysis or publication.
 
 ## Corresponding Author

@@ -2,9 +2,9 @@
 This work develops a MATLAB-based EEG analysis toolbox, **EEG-TFX**. It is a MATLAB-based software that delivers a comprehensive solution for EEG signal processing and classification. The toolbox features:  
 1. An intuitive graphical user interface (GUI) for configuring multi-scale time–frequency segmentation, selecting features and classifiers, performing k-fold cross-validation, and visualizing results in real time.  
 2. A built-in post-training pipeline that exports the best-performing model, topographic maps, and accuracy curves for direct deployment and reproducible research.
-![EEG-TFX](GUI1.png)
-![EEG-TFX](GUI2.png)
-![EEG-TFX](GUI3.png)
+![EEG-TFX](util/GUI1.png)
+![EEG-TFX](util/GUI2.png)
+![EEG-TFX](util/GUI3.png)
 
 ## Citation
 
